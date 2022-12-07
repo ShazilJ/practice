@@ -48,11 +48,13 @@ overflow: auto;
     border: 1px solid #ccc;
     float: left;
     width: 390px;
+    border-radius: 10%;
 }
+
 .column img{
     width:100%;
     height: auto;
-    border-radius: 15%;
+    border-radius: 10%;
 }
 .desc{
     padding: 15px;
@@ -64,4 +66,7 @@ overflow: auto;
     font-size: 16px;
     color: white;
     background-color: #B22222;
+    margin-top: 5%;
+    display: block;
+    padding: 3%;
 }
